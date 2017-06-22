@@ -8,4 +8,4 @@ Creating a new branch is quick AND simple.
 git tracks changes.
 Creating a new branch is quick & simple.
 no fast forward.
-
+some unfinished j...

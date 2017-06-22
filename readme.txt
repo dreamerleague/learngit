@@ -7,7 +7,5 @@ Creating a new branch is quick AND simple.
 <<<<<<< HEAD
 git tracks changes.
 Creating a new branch is quick & simple.
+no fast forward.
 
-=======
-git tracks changes and simple.
->>>>>>> future1
